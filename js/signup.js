@@ -60,5 +60,3 @@ submit.addEventListener("click", (event) => {
             console.error("Error creating user:", error.message);
         });
 });
-
-//sex
